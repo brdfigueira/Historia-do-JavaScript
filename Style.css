@@ -1,0 +1,36 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body {
+    background-image: url(./Assets/FundoMarmore.jpeg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+footer {
+    font-size: 20px;
+}
+
+.fim {
+    font-size: 35px;
+}
+
+.container-1 {
+    
+
+}
+
+.container-2 {
+
+}
+
+.image-1 {
+
+}
+
+.image-2 {
+    
+}
