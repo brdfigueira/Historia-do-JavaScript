@@ -9,3 +9,7 @@
 9. linkedin.html        -> Javascript.html
 
 ## Apresentação para aula Ford <Enter> - formação front end
+
+### Biblioteca JavaScript para qrcode não esta sendo importada corretamente. A corrigir.
+
+https://www.brasilcode.com.br/como-gerar-qr-code-com-javascript-tutorial/
